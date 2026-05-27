@@ -26,7 +26,8 @@ Solve 270+ DSA problems in 90 days with structured pattern-based learning.
 ---
 
 ## 📊 Progress
-- Day 1: Completed (Arrays basics, Hashing intro, Two pointers)
+- Day 1: Completed (Arrays basics)
+- Day 2: Completed (Arrays basics)
 
 ---
 
