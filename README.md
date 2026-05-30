@@ -29,6 +29,7 @@ Solve 270+ DSA problems in 90 days with structured pattern-based learning.
 - Day 1: Completed (Arrays basics)
 - Day 2: Completed (Arrays basics)
 - Day 3: Completed (Arrays and Hashing)
+- Day 4: Completed (Arrays, Kadane's Algorithm and Sliding Window)
 
 ---
 
