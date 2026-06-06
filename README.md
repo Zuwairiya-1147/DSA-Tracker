@@ -36,6 +36,7 @@ Solve 270+ DSA problems in 90 days with structured pattern-based learning.
 - Day 8: Completed (Strings, Two pointers)
 - Day 9: Completed (Strings, Traversal)
 - Day 10: Completed (String, Hashing)
+- Day 11: Completed (Strings, Two pointers, Math)
 
 ---
 
