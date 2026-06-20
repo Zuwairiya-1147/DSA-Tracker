@@ -12,7 +12,9 @@ Solve 270+ DSA problems in 90 days with structured pattern-based learning.
 - Two Pointers
 - Linked List
 - Stack
+- Queues
 - Trees
+- Binary Search Trees
 - Graphs
 
 ---
@@ -50,6 +52,7 @@ Solve 270+ DSA problems in 90 days with structured pattern-based learning.
 - Day 22: Completed (Binary Tree)
 - Day 23: Revision
 - Day 24: Completed (Binary Search Tree)
+- Day 25: Completed (Binary Search Tree)
 
 
 ---
